@@ -1,5 +1,10 @@
 # Todo list Made With Vuex
 
+
+##Demo
+<a href="https://imgur.com/gxk0Y4j"><img src="https://i.imgur.com/gxk0Y4j.gif" title="source: imgur.com" /></a>
+
+
 ## Project setup
 ```
 npm install
@@ -29,5 +34,3 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-##Demo
-<a href="https://imgur.com/gxk0Y4j"><img src="https://i.imgur.com/gxk0Y4j.gif" title="source: imgur.com" /></a>
